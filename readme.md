@@ -11,7 +11,8 @@ This was mainly since I found that I need a central place for my formulas rather
 Also I made the experience in earlier days in Ultrafractal that versioning 'by hand' is really a nightmare - I know, that should be self-eveident for any 'real' developer, but I don't see me as true developer, and hence I felt into that trap...   
    
 However, while thinking about the way to build such a central repository I came to the conlusion that I would like to follow more the common open source approach, and to publish the formulas in a way that everyone can contribute.   
-Therefore - Please feel free to contribute, ask for changes / corrections / improvements, to add your comments, and questions etc.   
+   
+**Therefore - Please feel free to contribute, ask for changes / corrections / improvements, to add your comments, and questions etc.**   
      
 In any case this repostiory will **not** be used for formulas for the official Mandelbulber 2 distribution.   
 Morover: As far as I know there is not (yet?) such a repository for custom OpenCls (Please correct me if I should be wrong).   
@@ -30,10 +31,10 @@ You will need a graphic card that supports OpenCL.
 However, I never got the feature running on integrated Intel CPU graphics. Theoretically it should support OpenCL, and also MB2 accepted the choice - but as soon as I wanted to run something using OpenCL (internal, or custom) the system did behave ... unpredictable (and no, it's not the known issue with Windows, and the timeout of the graphics driver).    
 
 ## Folders:
-- The folder /opencl will contain opencl files (and potentially sample data) independent from any publishing elsewhere.   
+- The folder [/opencl](/opencl) will contain opencl files (and potentially sample data) independent from any publishing elsewhere.   
   Any possible development will happen here.   
   As of now the directory is structured by using subdirectories for formulas of a certain mathematical topic (like /opencl/newton for everything around 3D/4D Newton fractals)   
-- The folder /published-samples will contain opencl formulas, and other related data published elsewhere (currently at fractalforums.org only).   
+- The folder [/published-samples](/published-samples) will contain opencl formulas, and other related data published elsewhere (currently at fractalforums.org only).   
   The files will not be changed (beyond any possible improvements of non-functional parts like documentation etc).   
   Even corrections would result in new files for compatibility with the existing threads.   
   
