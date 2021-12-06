@@ -1,0 +1,230 @@
+The pure bulb
+=============
+# Mandelbulber settings file
+# version 2.23
+# only modified parameters
+[main_parameters]
+ambient_occlusion_enabled true;
+ambient_occlusion_quality 8;
+background_color_1 0200 0200 2600;
+bailout 4;
+brightness 1,5;
+camera -2,06733311933425 0,968800238310736 -2,08784365965326;
+camera_distance_to_target 5,02843344069542;
+camera_rotation -125,669393428518 49,7239995053859 -173,65953118383;
+camera_top 0,680413070276891 -0,352436274306258 -0,642515934704735;
+DE_factor 0,5;
+delta_DE_function 6;
+delta_DE_method 2;
+detail_level 2;
+file_background C:\work\frac\mandelbulber2\textures\background.jpg;
+file_envmap C:\work\frac\mandelbulber2\textures\envmap.jpg;
+file_lightmap C:\work\frac\mandelbulber2\textures\lightmap.jpg;
+flight_last_to_render 0;
+formula_1 10000;
+formula_stop_iteration_1 500;
+formula_stop_iteration_2 500;
+gamma 0,65;
+glow_color_2 f000 f300 ce00;
+glow_intensity 2,5;
+hdr true;
+image_height 2160;
+image_proportion 2;
+image_width 2880;
+julia_c -1 0 0;
+keyframe_last_to_render 0;
+mat1_coloring_speed 0,1;
+mat1_is_defined true;
+mat1_specular_metallic_roughness 0,3;
+raytraced_reflections true;
+shadows_cone_angle 3;
+target 0,573546289257179 -0,926725805690159 1,74854524572326;
+use_default_bailout false;
+view_distance_max 7,65686688139087;
+[fractal_1]
+analyticDE_offset_1 4;
+analyticDE_scale_1 2;
+formula_code AAAI23jalVXbjts2EH2Wv2IeJfoqpeiLkQDpZgsU6BZFPiAGTVErJbLkSJRXZLH/3pmhaDubbOv4xeLMnDNXDj/ev//zF7gbetMe/jC6k6Zqm/gjS90CdjvVNr2RjYH+904qI+u7GkThPxfQ349GN7nO3w8jKeQwJrN/ZtFsvYa/O32UnhDa40TdzyIih0KqnS4KeAub1a/n33bStkXRa4PKdLXRy3SD8kmjRoZsgqWyL84unGdVAfEU6PKd6WTTF213uGsPh7ZZfR7qSj60uU5mgD8Mmf6Y/VVMKMXDUJvqWFe6Szeb1bidsPbnsTZg3c9jHWOfZ7rudcgh4gQcxxRxQI59ROzAMeYZj9Seu7Y56c5UzSOYUkNe4emRTvG4sAuXwF6qL2Ba1p5kV8l9rQloSmlAyQb2GoZe54ChslGsmJJIEvhLPxls/EGbss3RvFZDzROAsXKn+q+77r+y7hGj1zFO1PJdBwKmj/k0HMk2EI2pz1kw4/x1xpNWaZpScSakJeQSS3Qr1J6hboK6W6HuMsNjhtgxFWMaptaSxKbCniWOJC4VjiTcrqmCmktdUaF7Dcf2SXdYETBvp7YtyFg2ObUGKnNuzqv96L3JJ081B0UXiEiqlV6BiZt5mqAoE/iZrN/AEtTaHz5lGBqERmJWc0pkjrFvL+J0Hb/hGoVCvWxftxvtBX4Wl1TgFL25bE0mW/bFKnM40piXqYjHbGmzhKm3V2oiXGaipBpjUb/TO04Iy9tgCU5613/tTExeAlUUXcLLOL5rSwpAcBRz9kbf9jqjTH2HUaNQZK+sUFe2ZTalqZzgwNYQs0vhWcjyKvCMEicu9r4kNvaN96PMrjPMLBvaEKaH/MiQauF9+QDmPmWhcGJpr/D1mtY1lhOdchzE4S9Q0Nmg41vib0jQuaAjUpyt33TdPvFclrxlaKUcu/ZU5boHOS0jja/OSdaDpgEPWwkX0gOOt673Q73XHU97jTM9PJbMd6xl1byY9rwl1vpJ2h6mHaU5Ny5CXhUFl5WT+9/twb27ILnO9hakfYGkwsfuFqRLfCtuXJmckPBpzX2QwofqT05499/cRdqgyO2x4b7Q80FXyXNcSV2QunBhZtE3761sZG1NpT7cr3RDL0eezCJ6oXiNf7hHfPgS8CMU55JeL9YrpY879a8ZRdRpM3QNuC0+iXh+jqII/gUfarSp;
+transf_constant_julia_mode true;
+transf_constant_multiplier_100 -1 0 0;
+transf_function_enabled false;
+transf_function_enabledAy_false true;
+transf_offset_111 0,15 0 0;
+transf_rotation 0 10 0;
+transf_rotation2 0 10 0;
+transf_vec_111 1 0 0;
+[fractal_2]
+analyticDE_offset_1 4;
+analyticDE_scale_1 2;
+formula_code AAAI23jalVXbjts2EH2Wv2IeJfoqpeiLkQDpZgsU6BZFPiAGTVErJbLkSJRXZLH/3pmhaDubbOv4xeLMnDNXDj/ev//zF7gbetMe/jC6k6Zqm/gjS90CdjvVNr2RjYH+904qI+u7GkThPxfQ349GN7nO3w8jKeQwJrN/ZtFsvYa/O32UnhDa40TdzyIih0KqnS4KeAub1a/n33bStkXRa4PKdLXRy3SD8kmjRoZsgqWyL84unGdVAfEU6PKd6WTTF213uGsPh7ZZfR7qSj60uU5mgD8Mmf6Y/VVMKMXDUJvqWFe6Szeb1bidsPbnsTZg3c9jHWOfZ7rudcgh4gQcxxRxQI59ROzAMeYZj9Seu7Y56c5UzSOYUkNe4emRTvG4sAuXwF6qL2Ba1p5kV8l9rQloSmlAyQb2GoZe54ChslGsmJJIEvhLPxls/EGbss3RvFZDzROAsXKn+q+77r+y7hGj1zFO1PJdBwKmj/k0HMk2EI2pz1kw4/x1xpNWaZpScSakJeQSS3Qr1J6hboK6W6HuMsNjhtgxFWMaptaSxKbCniWOJC4VjiTcrqmCmktdUaF7Dcf2SXdYETBvp7YtyFg2ObUGKnNuzqv96L3JJ081B0UXiEiqlV6BiZt5mqAoE/iZrN/AEtTaHz5lGBqERmJWc0pkjrFvL+J0Hb/hGoVCvWxftxvtBX4Wl1TgFL25bE0mW/bFKnM40piXqYjHbGmzhKm3V2oiXGaipBpjUb/TO04Iy9tgCU5613/tTExeAlUUXcLLOL5rSwpAcBRz9kbf9jqjTH2HUaNQZK+sUFe2ZTalqZzgwNYQs0vhWcjyKvCMEicu9r4kNvaN96PMrjPMLBvaEKaH/MiQauF9+QDmPmWhcGJpr/D1mtY1lhOdchzE4S9Q0Nmg41vib0jQuaAjUpyt33TdPvFclrxlaKUcu/ZU5boHOS0jja/OSdaDpgEPWwkX0gOOt673Q73XHU97jTM9PJbMd6xl1byY9rwl1vpJ2h6mHaU5Ny5CXhUFl5WT+9/twb27ILnO9hakfYGkwsfuFqRLfCtuXJmckPBpzX2QwofqT05499/cRdqgyO2x4b7Q80FXyXNcSV2QunBhZtE3761sZG1NpT7cr3RDL0eezCJ6oXiNf7hHfPgS8CMU55JeL9YrpY879a8ZRdRpM3QNuC0+iXh+jqII/gUfarSp;
+transf_constant_julia_mode true;
+transf_constant_multiplier_100 -1 0 0;
+transf_function_enabled false;
+transf_function_enabledAy_false true;
+transf_offset_111 0,15 0 0;
+transf_rotation 0 10 0;
+transf_rotation2 0 10 0;
+transf_vec_111 1 0 0;
+
+
+The hybrid
+==========
+# Mandelbulber settings file
+# version 2.23
+# only modified parameters
+[main_parameters]
+ambient_occlusion_enabled true;
+background_color_1 0200 0300 2300;
+bailout 4;
+camera -2,42811955016328 1,7940514682123 -3,05765936250074;
+camera_distance_to_target 7,32843344069544;
+camera_rotation -146,025578108623 57,9279514045086 -162,581518612541;
+camera_top 0,700067189853364 -0,503215253824273 -0,506636297564028;
+DE_factor 0,5;
+delta_DE_function 6;
+delta_DE_method 2;
+detail_level 2;
+DOF_blur_opacity 2;
+DOF_enabled true;
+DOF_focus 3,40423846244812;
+DOF_number_of_passes 2;
+DOF_radius 5;
+file_background C:\work\frac\mandelbulber2\textures\background.jpg;
+file_envmap C:\work\frac\mandelbulber2\textures\envmap.jpg;
+file_lightmap C:\work\frac\mandelbulber2\textures\lightmap.jpg;
+flight_last_to_render 0;
+fog_color_2 1a00 1d00 3b00;
+formula_1 10000;
+formula_2 1064;
+formula_stop_iteration_1 500;
+formula_stop_iteration_2 500;
+hybrid_fractal_enable true;
+image_height 2160;
+image_proportion 2;
+image_width 2880;
+julia_c -1 0 0;
+keyframe_last_to_render 0;
+main_light_alpha 45;
+main_light_beta 0;
+mat1_coloring_speed 0,5;
+mat1_is_defined true;
+N 500;
+raytraced_reflections true;
+SSAO_random_mode true;
+target -0,253578136137463 -1,43294530226358 3,15231633606105;
+use_default_bailout false;
+view_distance_max 7,65686688139087;
+volumetric_fog_colour_1_distance 2,5e-06;
+volumetric_fog_colour_2_distance 5e-06;
+volumetric_fog_density 10;
+volumetric_fog_distance_factor 2,5e-06;
+volumetric_fog_enabled true;
+[fractal_1]
+analyticDE_offset_1 4;
+analyticDE_scale_1 2;
+formula_code AAAI23jalVXbjts2EH2Wv2IeJfoqpeiLkQDpZgsU6BZFPiAGTVErJbLkSJRXZLH/3pmhaDubbOv4xeLMnDNXDj/ev//zF7gbetMe/jC6k6Zqm/gjS90CdjvVNr2RjYH+904qI+u7GkThPxfQ349GN7nO3w8jKeQwJrN/ZtFsvYa/O32UnhDa40TdzyIih0KqnS4KeAub1a/n33bStkXRa4PKdLXRy3SD8kmjRoZsgqWyL84unGdVAfEU6PKd6WTTF213uGsPh7ZZfR7qSj60uU5mgD8Mmf6Y/VVMKMXDUJvqWFe6Szeb1bidsPbnsTZg3c9jHWOfZ7rudcgh4gQcxxRxQI59ROzAMeYZj9Seu7Y56c5UzSOYUkNe4emRTvG4sAuXwF6qL2Ba1p5kV8l9rQloSmlAyQb2GoZe54ChslGsmJJIEvhLPxls/EGbss3RvFZDzROAsXKn+q+77r+y7hGj1zFO1PJdBwKmj/k0HMk2EI2pz1kw4/x1xpNWaZpScSakJeQSS3Qr1J6hboK6W6HuMsNjhtgxFWMaptaSxKbCniWOJC4VjiTcrqmCmktdUaF7Dcf2SXdYETBvp7YtyFg2ObUGKnNuzqv96L3JJ081B0UXiEiqlV6BiZt5mqAoE/iZrN/AEtTaHz5lGBqERmJWc0pkjrFvL+J0Hb/hGoVCvWxftxvtBX4Wl1TgFL25bE0mW/bFKnM40piXqYjHbGmzhKm3V2oiXGaipBpjUb/TO04Iy9tgCU5613/tTExeAlUUXcLLOL5rSwpAcBRz9kbf9jqjTH2HUaNQZK+sUFe2ZTalqZzgwNYQs0vhWcjyKvCMEicu9r4kNvaN96PMrjPMLBvaEKaH/MiQauF9+QDmPmWhcGJpr/D1mtY1lhOdchzE4S9Q0Nmg41vib0jQuaAjUpyt33TdPvFclrxlaKUcu/ZU5boHOS0jja/OSdaDpgEPWwkX0gOOt673Q73XHU97jTM9PJbMd6xl1byY9rwl1vpJ2h6mHaU5Ny5CXhUFl5WT+9/twb27ILnO9hakfYGkwsfuFqRLfCtuXJmckPBpzX2QwofqT05499/cRdqgyO2x4b7Q80FXyXNcSV2QunBhZtE3761sZG1NpT7cr3RDL0eezCJ6oXiNf7hHfPgS8CMU55JeL9YrpY879a8ZRdRpM3QNuC0+iXh+jqII/gUfarSp;
+transf_constant_julia_mode true;
+transf_constant_multiplier_100 -1 0 0;
+transf_function_enabled false;
+transf_function_enabledAy_false true;
+transf_offset_111 0,15 0 0;
+transf_rotation 0 10 0;
+transf_rotation2 0 10 0;
+transf_vec_111 0,95 0,1 0;
+[fractal_2]
+analyticDE_offset_1 4;
+analyticDE_scale_1 2;
+formula_code AAAI23jalVXbjts2EH2Wv2IeJfoqpeiLkQDpZgsU6BZFPiAGTVErJbLkSJRXZLH/3pmhaDubbOv4xeLMnDNXDj/ev//zF7gbetMe/jC6k6Zqm/gjS90CdjvVNr2RjYH+904qI+u7GkThPxfQ349GN7nO3w8jKeQwJrN/ZtFsvYa/O32UnhDa40TdzyIih0KqnS4KeAub1a/n33bStkXRa4PKdLXRy3SD8kmjRoZsgqWyL84unGdVAfEU6PKd6WTTF213uGsPh7ZZfR7qSj60uU5mgD8Mmf6Y/VVMKMXDUJvqWFe6Szeb1bidsPbnsTZg3c9jHWOfZ7rudcgh4gQcxxRxQI59ROzAMeYZj9Seu7Y56c5UzSOYUkNe4emRTvG4sAuXwF6qL2Ba1p5kV8l9rQloSmlAyQb2GoZe54ChslGsmJJIEvhLPxls/EGbss3RvFZDzROAsXKn+q+77r+y7hGj1zFO1PJdBwKmj/k0HMk2EI2pz1kw4/x1xpNWaZpScSakJeQSS3Qr1J6hboK6W6HuMsNjhtgxFWMaptaSxKbCniWOJC4VjiTcrqmCmktdUaF7Dcf2SXdYETBvp7YtyFg2ObUGKnNuzqv96L3JJ081B0UXiEiqlV6BiZt5mqAoE/iZrN/AEtTaHz5lGBqERmJWc0pkjrFvL+J0Hb/hGoVCvWxftxvtBX4Wl1TgFL25bE0mW/bFKnM40piXqYjHbGmzhKm3V2oiXGaipBpjUb/TO04Iy9tgCU5613/tTExeAlUUXcLLOL5rSwpAcBRz9kbf9jqjTH2HUaNQZK+sUFe2ZTalqZzgwNYQs0vhWcjyKvCMEicu9r4kNvaN96PMrjPMLBvaEKaH/MiQauF9+QDmPmWhcGJpr/D1mtY1lhOdchzE4S9Q0Nmg41vib0jQuaAjUpyt33TdPvFclrxlaKUcu/ZU5boHOS0jja/OSdaDpgEPWwkX0gOOt673Q73XHU97jTM9PJbMd6xl1byY9rwl1vpJ2h6mHaU5Ny5CXhUFl5WT+9/twb27ILnO9hakfYGkwsfuFqRLfCtuXJmckPBpzX2QwofqT05499/cRdqgyO2x4b7Q80FXyXNcSV2QunBhZtE3761sZG1NpT7cr3RDL0eezCJ6oXiNf7hHfPgS8CMU55JeL9YrpY879a8ZRdRpM3QNuC0+iXh+jqII/gUfarSp;
+transf_constant_julia_mode true;
+transf_constant_multiplier_100 -1 0 0;
+transf_function_enabled false;
+transf_function_enabledAy_false true;
+transf_offset_000 0,5 0 0;
+transf_offset_111 0,2 0 0;
+transf_rotation 30 0 0;
+transf_rotation2 -30 0 0;
+transf_vec_111 1 0 0;
+
+
+The dragon
+==========
+# Mandelbulber settings file
+# version 2.23
+# only modified parameters
+[main_parameters]
+aux_light_colour_1 e800 b800 6400;
+aux_light_enabled_1 true;
+aux_light_intensity_1 0,15;
+aux_light_position_1 -0,426659989608128 2,3 0,22;
+aux_light_volumetric_intensity_1 0,1;
+background_brightness 1,25;
+background_color_1 0200 0300 1600;
+background_color_3 1600 0200 0300;
+bailout 4;
+brightness 1,5;
+camera -1,4855950637651 0,651200347145062 -2,00536439761983;
+camera_distance_to_target 5,3284334406954;
+camera_rotation -124,80553907151 56,113266346223 166,563299610373;
+camera_top 0,530330508001032 -0,651666989075967 -0,542291146555087;
+DE_factor 0,2;
+delta_DE_function 6;
+delta_DE_method 1;
+detail_level 3;
+DOF_blur_opacity 2;
+DOF_enabled true;
+DOF_focus 2,41872262954712;
+DOF_number_of_passes 2;
+DOF_radius 2;
+file_background C:\work\frac\mandelbulber2\textures\background.jpg;
+file_envmap C:\work\frac\mandelbulber2\textures\envmap.jpg;
+file_lightmap C:\work\frac\mandelbulber2\textures\lightmap.jpg;
+fill_light_color 7100 7100 7100;
+flight_last_to_render 0;
+formula_1 1064;
+formula_2 10000;
+formula_stop_iteration_2 500;
+gamma 0,6;
+glow_intensity 0,8;
+hdr true;
+hybrid_fractal_enable true;
+image_height 2160;
+image_proportion 2;
+image_width 2880;
+julia_c -1 0 0;
+keyframe_last_to_render 0;
+main_light_alpha 15;
+main_light_beta 15;
+mat1_coloring_palette_offset 0,12;
+mat1_coloring_speed 3;
+mat1_fractal_coloring_line_direction 1 0,5 -0,5 0;
+mat1_is_defined true;
+mat1_name mat-001;
+mat1_specular_gradient 0 ffffff 3333 fec86f 6666 b4423a;
+mat1_specular_gradient_enable true;
+mat1_surface_color_gradient 0 eb592d 833 ee8427 1666 ffac25 2500 ffffff 4166 ffff99 5833 ffffd6 6666 ffffff 8333 b1e034 9166 ffff93;
+raytraced_reflections true;
+shadows_cone_angle 3;
+target 0,953779712365717 -1,04455905466789 2,41798881964202;
+use_default_bailout false;
+view_distance_max 7,65686688139087;
+[fractal_1]
+formula_code AAAI23jalVXbjts2EH2Wv2IeJfoqpeiLkQDpZgsU6BZFPiAGTVErJbLkSJRXZLH/3pmhaDubbOv4xeLMnDNXDj/ev//zF7gbetMe/jC6k6Zqm/gjS90CdjvVNr2RjYH+904qI+u7GkThPxfQ349GN7nO3w8jKeQwJrN/ZtFsvYa/O32UnhDa40TdzyIih0KqnS4KeAub1a/n33bStkXRa4PKdLXRy3SD8kmjRoZsgqWyL84unGdVAfEU6PKd6WTTF213uGsPh7ZZfR7qSj60uU5mgD8Mmf6Y/VVMKMXDUJvqWFe6Szeb1bidsPbnsTZg3c9jHWOfZ7rudcgh4gQcxxRxQI59ROzAMeYZj9Seu7Y56c5UzSOYUkNe4emRTvG4sAuXwF6qL2Ba1p5kV8l9rQloSmlAyQb2GoZe54ChslGsmJJIEvhLPxls/EGbss3RvFZDzROAsXKn+q+77r+y7hGj1zFO1PJdBwKmj/k0HMk2EI2pz1kw4/x1xpNWaZpScSakJeQSS3Qr1J6hboK6W6HuMsNjhtgxFWMaptaSxKbCniWOJC4VjiTcrqmCmktdUaF7Dcf2SXdYETBvp7YtyFg2ObUGKnNuzqv96L3JJ081B0UXiEiqlV6BiZt5mqAoE/iZrN/AEtTaHz5lGBqERmJWc0pkjrFvL+J0Hb/hGoVCvWxftxvtBX4Wl1TgFL25bE0mW/bFKnM40piXqYjHbGmzhKm3V2oiXGaipBpjUb/TO04Iy9tgCU5613/tTExeAlUUXcLLOL5rSwpAcBRz9kbf9jqjTH2HUaNQZK+sUFe2ZTalqZzgwNYQs0vhWcjyKvCMEicu9r4kNvaN96PMrjPMLBvaEKaH/MiQauF9+QDmPmWhcGJpr/D1mtY1lhOdchzE4S9Q0Nmg41vib0jQuaAjUpyt33TdPvFclrxlaKUcu/ZU5boHOS0jja/OSdaDpgEPWwkX0gOOt673Q73XHU97jTM9PJbMd6xl1byY9rwl1vpJ2h6mHaU5Ny5CXhUFl5WT+9/twb27ILnO9hakfYGkwsfuFqRLfCtuXJmckPBpzX2QwofqT05499/cRdqgyO2x4b7Q80FXyXNcSV2QunBhZtE3761sZG1NpT7cr3RDL0eezCJ6oXiNf7hHfPgS8CMU55JeL9YrpY879a8ZRdRpM3QNuC0+iXh+jqII/gUfarSp;
+transf_function_enabled false;
+transf_function_enabledAy false;
+transf_function_enabledAy_false true;
+transf_function_enabledAz false;
+transf_offset_111 0,3 0 0;
+transf_rotation 0 15 0;
+transf_rotation2 0 -15 0;
+[fractal_2]
+analyticDE_offset_1 4;
+analyticDE_scale_1 2;
+formula_code AAAI23jalVXbjts2EH2Wv2IeJfoqpeiLkQDpZgsU6BZFPiAGTVErJbLkSJRXZLH/3pmhaDubbOv4xeLMnDNXDj/ev//zF7gbetMe/jC6k6Zqm/gjS90CdjvVNr2RjYH+904qI+u7GkThPxfQ349GN7nO3w8jKeQwJrN/ZtFsvYa/O32UnhDa40TdzyIih0KqnS4KeAub1a/n33bStkXRa4PKdLXRy3SD8kmjRoZsgqWyL84unGdVAfEU6PKd6WTTF213uGsPh7ZZfR7qSj60uU5mgD8Mmf6Y/VVMKMXDUJvqWFe6Szeb1bidsPbnsTZg3c9jHWOfZ7rudcgh4gQcxxRxQI59ROzAMeYZj9Seu7Y56c5UzSOYUkNe4emRTvG4sAuXwF6qL2Ba1p5kV8l9rQloSmlAyQb2GoZe54ChslGsmJJIEvhLPxls/EGbss3RvFZDzROAsXKn+q+77r+y7hGj1zFO1PJdBwKmj/k0HMk2EI2pz1kw4/x1xpNWaZpScSakJeQSS3Qr1J6hboK6W6HuMsNjhtgxFWMaptaSxKbCniWOJC4VjiTcrqmCmktdUaF7Dcf2SXdYETBvp7YtyFg2ObUGKnNuzqv96L3JJ081B0UXiEiqlV6BiZt5mqAoE/iZrN/AEtTaHz5lGBqERmJWc0pkjrFvL+J0Hb/hGoVCvWxftxvtBX4Wl1TgFL25bE0mW/bFKnM40piXqYjHbGmzhKm3V2oiXGaipBpjUb/TO04Iy9tgCU5613/tTExeAlUUXcLLOL5rSwpAcBRz9kbf9jqjTH2HUaNQZK+sUFe2ZTalqZzgwNYQs0vhWcjyKvCMEicu9r4kNvaN96PMrjPMLBvaEKaH/MiQauF9+QDmPmWhcGJpr/D1mtY1lhOdchzE4S9Q0Nmg41vib0jQuaAjUpyt33TdPvFclrxlaKUcu/ZU5boHOS0jja/OSdaDpgEPWwkX0gOOt673Q73XHU97jTM9PJbMd6xl1byY9rwl1vpJ2h6mHaU5Ny5CXhUFl5WT+9/twb27ILnO9hakfYGkwsfuFqRLfCtuXJmckPBpzX2QwofqT05499/cRdqgyO2x4b7Q80FXyXNcSV2QunBhZtE3761sZG1NpT7cr3RDL0eezCJ6oXiNf7hHfPgS8CMU55JeL9YrpY879a8ZRdRpM3QNuC0+iXh+jqII/gUfarSp;
+transf_constant_julia_mode true;
+transf_constant_multiplier_100 -1 0 0;
+transf_function_enabled false;
+transf_function_enabledAy_false true;
+transf_offset_111 0,15 0 0;
+transf_rotation 0 10 0;
+transf_rotation2 0 10 0;
+transf_vec_111 1 0 0;
