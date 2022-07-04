@@ -180,7 +180,7 @@ REAL4 CustomIteration(REAL4 z, __constant sFractalCl *fractal, sExtendedAuxCl *a
    z.y = fac_eff*z.y + tmpy;
    z.z = fac_eff*z.z - tmpz;
 
-// Below the hack that provides a divergent value of (x,y,z) to MB3D
+// Below the hack that provides a divergent value of (x,y,z) to MB2
 // although the plain Newton method does always converge
    REAL diffx = (z.x-Solution_x);
    REAL diffy = (z.y-Solution_y);
